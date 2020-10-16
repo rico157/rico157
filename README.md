@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 My portfolio page available at [rico157.github.io/portfolio](https://rico157.github.io/portfolio/)
+- 👨‍💻 My portfolio page available at [rico157.github.io/](https://rico157.github.io/)
 
 ---
 
