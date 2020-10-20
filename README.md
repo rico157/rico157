@@ -5,7 +5,7 @@
 </h1>
 
 
-- 🔭 I’m currently working on a [React App](https://rico-nc-news.herokuapp.com/)
+- 🔭 I’m currently working on a [React App](https://github.com/rico157/rico-fake-news)
 
 - 🌱 I’m currently learning **React.js**
 
