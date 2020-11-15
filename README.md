@@ -5,9 +5,9 @@
 </h1>
 
 
-- 🔭 I’m currently working on a [React App](https://github.com/rico157/rico-fake-news)
+- 🔭 I’m currently working on a [Mobile App](https://github.com/PopThieves/MatesRates)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native, GraphQL, MongoDB**
 
 - 👨‍💻 My portfolio page available at [rico157.github.io](https://rico157.github.io/)
 
