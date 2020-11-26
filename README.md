@@ -5,9 +5,9 @@
 </h1>
 
 
-- 🔭 I’m currently working on a [Mobile App](https://github.com/PopThieves/MatesRates)
+- 🔭 I’m currently working on converting my [portfolio](https://github.com/rico157/rico157.github.io) to [React](https://github.com/rico157/rico157.github.io/tree/dev)
 
-- 🌱 I’m currently learning **React Native, GraphQL, MongoDB**
+- 🌱 I’m currently learning **React, Bootstrap**
 
 - 👨‍💻 My portfolio page available at [rico157.github.io](https://rico157.github.io/)
 
