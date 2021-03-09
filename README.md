@@ -5,11 +5,11 @@
 </h1>
 
 
-- 🔭 I’m currently working on an ElectronJS App [Between Spaces](https://rico157.github.io/between-spaces/)
+- 🔭 I’m currently working on Web Development
 
-- 🌱 I’m currently learning **ElectronJS, Typescript**
+- 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 My portfolio page available at [rico157.github.io](https://rico157.github.io/)
+- 👨‍💻 My portfolio page available at [riccardocogoni.com](https://www.riccardocogoni.com/)
 
 ---
 
